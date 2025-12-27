@@ -1,0 +1,29 @@
+[{
+  "cep": "13346-253",
+  "logradouro": "Rua Humberto Batisti",
+  "complemento": "de 251/252 ao fim",
+  "unidade": "",
+  "bairro": "Jardim Alice",
+  "localidade": "Indaiatuba",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3520509",
+  "gia": "3530",
+  "ddd": "19",
+  "siafi": "6511"
+}, {
+  "cep": "13322-183",
+  "logradouro": "Rua Guatemala",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Jardim das Nações",
+  "localidade": "Salto",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3545209",
+  "gia": "6002",
+  "ddd": "11",
+  "siafi": "7005"
+}]

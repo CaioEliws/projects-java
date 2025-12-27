@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/challengue-compras/challengue-compras.iml" filepath="$PROJECT_DIR$/challengue-compras/challengue-compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue01/challengue01.iml" filepath="$PROJECT_DIR$/challengue01/challengue01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue02/challengue02.iml" filepath="$PROJECT_DIR$/challengue02/challengue02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue03/challengue03.iml" filepath="$PROJECT_DIR$/challengue03/challengue03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue04/challengue04.iml" filepath="$PROJECT_DIR$/challengue04/challengue04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue05/challengue05.iml" filepath="$PROJECT_DIR$/challengue05/challengue05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue06/challengue06.iml" filepath="$PROJECT_DIR$/challengue06/challengue06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue07/challengue07.iml" filepath="$PROJECT_DIR$/challengue07/challengue07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue08/challengue08.iml" filepath="$PROJECT_DIR$/challengue08/challengue08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue09/challengue09.iml" filepath="$PROJECT_DIR$/challengue09/challengue09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue10/challengue10.iml" filepath="$PROJECT_DIR$/challengue10/challengue10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue11/challengue11.iml" filepath="$PROJECT_DIR$/challengue11/challengue11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengue12/challengue12.iml" filepath="$PROJECT_DIR$/challengue12/challengue12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-project/first-project.iml" filepath="$PROJECT_DIR$/first-project/first-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMusic/myMusic.iml" filepath="$PROJECT_DIR$/myMusic/myMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectConsultarCEP/projectConsultarCEP.iml" filepath="$PROJECT_DIR$/projectConsultarCEP/projectConsultarCEP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projects.iml" filepath="$PROJECT_DIR$/.idea/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch/screenmatch.iml" />
+    </modules>
+  </component>
+</project>
